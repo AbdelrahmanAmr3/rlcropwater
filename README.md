@@ -7,8 +7,9 @@
 
 **virtual environment to train RL agent to schedule irrigation**
 
+This Project will be published after publishing the paper :)
 
--   Free software: MIT License
+
 -   Documentation: https://abdelrahmanamr3.github.io/rlcropwater
     
 
