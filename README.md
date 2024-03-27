@@ -6,5 +6,5 @@
 
 **virtual environment to train RL agent to schedule irrigation**
 
-# This Project will be published after publishing the paper:
-
+# 🛑 Important Notice
+Please note that this project will be made available only after the associated paper is published.
