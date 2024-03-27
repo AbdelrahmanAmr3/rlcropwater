@@ -1,4 +1,4 @@
-# rlcropwater
+# RLCropWater
 
 
 [![image](https://img.shields.io/pypi/v/rlcropwater.svg)](https://pypi.python.org/pypi/rlcropwater)
